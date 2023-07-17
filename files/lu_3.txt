@@ -1,0 +1,3 @@
+
+
+           x1 = nan , x2 = nan , x3 = -inf
